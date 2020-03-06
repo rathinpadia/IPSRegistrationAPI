@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPS_API", "IPS_API\IPS_API.csproj", "{FCB045C4-D05B-4D92-AB99-FC56BB39DB6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A228682F-DC3A-4D54-A84E-30948E66BDF1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPSAPI.UnitTests", "IPSAPI.UnitTests\IPSAPI.UnitTests.csproj", "{3F3695D1-BAF2-47F7-8C3D-2DAAE031FC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB045C4-D05B-4D92-AB99-FC56BB39DB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB045C4-D05B-4D92-AB99-FC56BB39DB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB045C4-D05B-4D92-AB99-FC56BB39DB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB045C4-D05B-4D92-AB99-FC56BB39DB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3695D1-BAF2-47F7-8C3D-2DAAE031FC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3695D1-BAF2-47F7-8C3D-2DAAE031FC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3695D1-BAF2-47F7-8C3D-2DAAE031FC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3695D1-BAF2-47F7-8C3D-2DAAE031FC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A15D765-0C6C-4C70-9DFA-59E78A69F21F}
+	EndGlobalSection
+EndGlobal
